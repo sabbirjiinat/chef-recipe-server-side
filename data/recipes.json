@@ -1,0 +1,362 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "name": "Sushi",
+        "ingredients": [
+            {
+                "first": "Raw fish",
+                "second": "A nori",
+                "third": "sheet",
+                "fourth": "sushi rice.",
+                "fifth": " Vinegar"
+            }
+        ],
+        "cookingMethod": "Rice must be cooked with vinegar for perfect sushi.The proportion of fish and rice must be just right.Only some fish works right with rice, other fish should be used for sashimi and chefs must go to great lengths to make sure they choose the right fish.The temperature the rice is cooked at and the temperature of the sushi chef’s hands are both very important for making perfect sushi.The size must be just right - eaten with the fingers - to be consumed with just one bite.",
+        "image_url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2018/05/07/sushi2.jpg?VersionId=tU9dBJYXfQDMLcQ_UMiPADcBE6HPCX3B&itok=6QgzV-Oc"
+    },
+    {
+        "_id": "hyepk96472hssudf15261f11c2ab6a",
+        "category_id": "1",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "name": "Katsu Curry Ramen",
+        "ingredients": [
+            {
+                "first": "2 pounds pork feet",
+                "second": "2 pounds pork neck bones ",
+                "third": "2 pounds pork leg bones ",
+                "fourth": "2 chicken back bones ",
+                "fifth": "6 cloves garlic"
+            }
+        ],
+        "cookingMethod": "For the pork broth: Place the pork feet and bones and chicken bones into a large stock pot and cover with cold water. Put on the lid and bring the pot to a boil. After 10 minutes, turn off the burner and strain the bones. Wash the bones under cold water to remove all the scum. Add the cleaned bones back into a clean stock pot, add water and bring to a boil.",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/2/4/0/DV2911_Katsu-Curry-Ramen_s4x3.jpg.rend.hgtvcom.826.620.suffix/1549301166542.jpeg"
+    },
+    {
+        "_id": "hyepk96497654sdblhppjun6a",
+        "category_id": "1",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "name": "Miso Soup",
+        "ingredients": [
+            {
+                "first": "6 cups cold water",
+                "second": "4 to 5 cups dashi, recipe follows",
+                "third": "6 ounces firm tofu,",
+                "fourth": "2 scallions, white and green",
+                "fifth": " Vinegar"
+            }
+        ],
+        "cookingMethod": "In a saucepan, combine the water and kombu. Bring to a simmer, uncovered, over medium heat. Remove the kombu and discard. Bring the liquid to a boil, add the bonito flakes and immediately remove the pan from the heat. Allow the dashi to sit undisturbed for 2 minutes. Strain through a fine mesh strainer into a medium bowl. Discard the bonito flakes. Use immediately or store, covered, in the refrigerator for up to 3 days..",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/1/29/0/FNK_Miso-Soup_s4x3.jpg.rend.hgtvcom.826.620.suffix/1485713419772.jpeg"
+    },
+    {
+        "_id": "7dhysmbloe74hsrtagd74jdiosdelfnfur845yrjd",
+        "category_id": "2",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "name": "Fen zheng rou",
+        "ingredients": [
+            {
+                "first": "Tilefish",
+                "second": "Salt",
+                "third": "sheet",
+                "fourth": "Water.",
+                "fifth": "Hot Soup"
+            }
+        ],
+        "cookingMethod": "“To make this dish, I remove some scales from the tilefish and pan-fry it until the remaining scales become crispy. The soup is made with white asparagus, salt and water, like a consommé “The hot soup is served first and the freshly fried tilefish are added one by one. As the tilefish is so hot, the sound, steam and the aromas effervesce from the asparagus consommé.“This is a dish that focuses on the crustacea-like scent of the scales, fluffy meat of the tilefish and delicate aroma of the asparagus.”",
+        "image_url": "https://www.theworlds50best.com/stories/filestore/jpg/Natsuko-Shoji-Amadai.png"
+    },
+    {
+        "_id": "376644wrgsdjfbdsjkfyre9pr8fhsdnfbvsdurt",
+        "category_id": "2",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "name": " Kaedama Tonkotsu",
+        "ingredients": [
+            {
+                "first": "1 cup soy sauce",
+                "second": "1/2 cup brown sugar ",
+                "third": "2 ounces fresh ginger, sliced thinly",
+                "fourth": "1 teaspoon salt ",
+                "fifth": "6 cloves garlic "
+            }
+        ],
+        "cookingMethod": "For the tonkotsu broth: Place the pig trotters in a large pot with 1 gallon water. Bring to a boil, then let boil for 15 to 20 minutes. Drain water, then refill the pot with fresh water. Bring to a boil, skim the scum off the surface, cover the pot and boil for 12 hours, checking the water level every hour. Strain the broth with a fine-mesh strainer.",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/03/03/DVSP105_kaedama-tonkotsu_s4x3.jpg.rend.hgtvcom.826.620.suffix/1583252039247.jpeg"
+    },
+    {
+        "_id": "948343iurhdskjfhdrrp9883werdfghertdfdgdrt",
+        "category_id": "2",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "name": "Chirashizushi",
+        "ingredients": [
+            {
+                "first": "4 thin slices lemon, optional",
+                "second": "4 shiso leaves, optional",
+                "third": "Sliced pickled ginger, for serving",
+                "fourth": "Wasabi, for serving",
+                "fifth": "Soy sauce, for serving"
+            }
+        ],
+        "cookingMethod": "Whisk together the vinegar, sugar and 1 1/2 teaspoons salt in a small bowl until the sugar and salt dissolve. Place the rice in a large bowl and evenly sprinkle the vinegar mixture over the top. While fanning the rice (see Cook’s Note), use a rice paddle or wooden spoon to quickly cut in and then gently fold the ingredients together until thoroughly combined and no more steam comes off the rice, about 10 minutes. Cover the rice with a damp towel to prevent it from drying out and set aside until just above room temperature, about 10 minutes mor",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/08/25/0/FNK_Chirashizushi_H_s4x3.jpg.rend.hgtvcom.826.620.suffix/1629898585979.jpeg"
+    },
+    {
+        "_id": "948w44857348957wejhfhsd8ouryefhdfyhutgdrt",
+        "category_id": "3",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "name": "Spiced Edamame",
+        "ingredients": [
+            {
+                "first": "teaspoons kosher salt",
+                "second": "teaspoon chili powder",
+                "third": "1/4 teaspoon red pepper flakes",
+                "fourth": "1/2 teaspoon dried oregano",
+                "fifth": "frozen edamame,"
+            }
+        ],
+        "cookingMethod": "“Heat the salt, chili powder, and pepper flakes in a small dry skillet over medium heat, stirring until hot and aromatic, about 3 minutes. Remove from the heat and crumble in the oregano.Boil the edamame pods in salted water until tender, about 8 minutes. Drain in a colander and pat dry. Toss the edamame pods with the chili-salt and serve warm..”",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/6/17/1/FN_Spiced-Edamame_s4x3.jpg.rend.hgtvcom.826.620.suffix/1406282294482.jpeg"
+    },
+    {
+        "_id": "9745458erhfjdsfht9tukermngiftohgy",
+        "category_id": "3",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "name": "Chicken Katsu",
+        "ingredients": [
+            {
+                "first": "1/2 cup ketchup",
+                "second": "3 tablespoons Worcestershire sauce",
+                "third": "2 tablespoons low-sodium soy sauce",
+                "fourth": "1/4 cup all-purpose flour",
+                "fifth": "2 large eggs, lightly beaten,"
+            }
+        ],
+        "cookingMethod": "For the chicken: Set a wire rack in a baking sheet or line a large plate with a paper towel and set aside. Place the flour, eggs and panko into 3 separate large shallow bowls. Stir together 1 teaspoon salt and 1 teaspoon pepper in a small bowl and then sprinkle the mixture on both sides of the cutlets. Working with 1 cutlet at a time, dredge it in the flour, dip it into the eggs, and then coat it with the panko, gently pressing both sides into the panko to make sure it adheres well. Transfer the cutlet to a plate and repeat with the remaining cutlets. ”",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/18/0/FNK_CHICKEN_KATSU_H_f_s4x3.jpg.rend.hgtvcom.826.620.suffix/1616083203181.jpeg"
+    },
+    {
+        "_id": "344rufjdsfdxfg8rt066yfgcxfsduyr4387t",
+        "category_id": "3",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "name": " Healthy Spicy Steamed Baby Bok Choy",
+        "ingredients": [
+            {
+                "first": "1 teaspoon spicy sesame oil",
+                "second": "1/4 teaspoon sugar",
+                "third": "1 teaspoon lime zest",
+                "fourth": "2 teaspoons lime juice",
+                "fifth": "reduced-sodium soy sauce,"
+            }
+        ],
+        "cookingMethod": "Place the bok choy in a steamer basket and place the basket over (not in) simmering water. Steam until the base of the bok choy is just tender when pierced with the tip of a knife, about 6 minutes. Meanwhile, whisk together the chives, soy sauce, lime juice, lime zest and sugar in a small bowl. Transfer the bok choy to a platter and drizzle with the soy mixture. Drizzle with the spicy sesame oil ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/14/0/CC_SPICY-STEAMED-BABY-BOK-CHOY_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541187707.jpeg"
+    },
+    {
+        "_id": "w48734904845095834irjerit78ternkmgm",
+        "category_id": "4",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "name": "Tamagoyaki",
+        "ingredients": [
+            {
+                "first": "2 large eggs",
+                "second": "1 1/2 teaspoons sugar ",
+                "third": "Kosher salt",
+                "fourth": "Vegetable oil, for the pan",
+                "fifth": "Soy sauce, "
+            }
+        ],
+        "cookingMethod": "Pour in enough of the egg mixture to lightly coat the bottom of the pan, tilting the pan as needed. Cook until the egg is just set on the bottom but a little underdone on the top, about 1 minute. Using chopsticks or a spatula (see Cook’s Note), roll up the egg from the far end of the pan toward you. If you are having trouble getting the egg to fold over itself, use your fingers or a fork to help it along. When the egg is rolled up, push it to the far end of the pan. ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/08/3/0/FN_TAMAGOYAKI_H_f_s4x3.jpg.rend.hgtvcom.826.620.suffix/1628021632211.jpeg"
+    },
+    {
+        "_id": "dxjmkkfr8375q2dskjfhew8eekjddssiuryew",
+        "category_id": "4",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "name": "Fluffy Japanese Pancakes",
+        "ingredients": [
+            {
+                "first": "2 large eggs",
+                "second": "Nonstick cooking spray",
+                "third": "1/2 teaspoon pure vanilla",
+                "fourth": "1/2 teaspoon kosher salt ",
+                "fifth": "1 1/4 cups milk "
+            }
+        ],
+        "cookingMethod": "Stir the milk mixture into the flour mixture until just combined (it's OK if there are a few lumps). Stir one-third of the beaten egg whites into the flour-milk mixture. Then gently fold in the remaining egg whites until just combined (take care not to overmix). ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/4/7/0/FNK_Fluffy-Japanese-Pancakes-H_s4x3.jpg.rend.hgtvcom.826.620.suffix/1491598033896.jpeg"
+    },
+    {
+        "_id": "43985439rdfkmvncxmgher9utdfdfvjhgjh",
+        "category_id": "4",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "name": "Salmon Kushiyaki",
+        "ingredients": [
+            {
+                "first": "1/4 cup mirin",
+                "second": "1/4 cup sake",
+                "third": "1/2 teaspoon pure vanilla",
+                "fourth": "1/4 cup packed light brown sugar",
+                "fifth": "1/4 cup light miso"
+            }
+        ],
+        "cookingMethod": "Meanwhile, combine the mirin and sake in a small saucepan and bring to a boil over medium-high heat. Reduce to a simmer, add the brown sugar and cook, whisking until dissolved, 1 to 2 minutes. Add the miso and whisk until dissolved, 1 to 2 minutes. Let cool, then remove 1/4 cup and set aside for brushing. Pour the remaining marinade over the salmon cubes in a baking dish, tossing to coat. Cover and refrigerate the salmon and reserved marinade for at least 6 hours and preferably overnight.",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/18/0/FNK_SALMON_KUSHIYAKI_H_f_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1616083131975.jpeg"
+    },
+    {
+        "_id": "3dshkjfse988r7weskfxdfiudshfxkcnbnvk",
+        "category_id": "5",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "name": "Katsudon",
+        "ingredients": [
+            {
+                "first": "1/4 onion, thinly sliced ",
+                "second": "1 large egg, beaten ",
+                "third": "1 scallion, thinly sliced ",
+                "fourth": "2 tablespoons soy sauce",
+                "fifth": "1/4 cup light miso"
+            }
+        ],
+        "cookingMethod": "Reduce the heat to medium-low. Pour half of the beaten egg evenly in a thin stream around the pan and pour the remaining half across the tonkatsu. Cover and gently simmer until the eggs are just set, 1 to 2 minutes. (It’s better to slightly undercook the eggs than to overcook them; they’ll continue to set after they’re removed them from the heat.)",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/08/3/0/FN_KATSUDON_H_f_s4x3.jpg.rend.hgtvcom.826.620.suffix/1628021650116.jpeg"
+    },
+    {
+        "_id": "3dshdsjhr9kdsfihssdcnbnvk",
+        "category_id": "5",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "name": "Gyudonon",
+        "ingredients": [
+            {
+                "first": "1/4 cup soy sauce",
+                "second": "3 tablespoons mirin ",
+                "third": "3 tablespoons sake ",
+                "fourth": "2 tablespoons sugar ",
+                "fifth": "1/4 cup light miso"
+            }
+        ],
+        "cookingMethod": "Raise the heat to high and bring the liquid to a boil. Add the beef and cook, turning the slices often with tongs, until the meat is barely cooked through, about 1 1/2 minutes. For the tenderest texture, cook the meat as little as possible. ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/08/3/0/FN_GYUDON_H_f_s4x3.jpg.rend.hgtvcom.826.620.suffix/1628021644238.jpeg"
+    },
+    {
+        "_id": "3dshdsjhr9kdsfihssdcnbnvkdsjkhfreurr",
+        "category_id": "5",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "name": " Taiyaki",
+        "ingredients": [
+            {
+                "first": "1/4 cup soy sauce",
+                "second": "1 teaspoon baking powder ",
+                "third": "2 tablespoons sugar ",
+                "fourth": "2 tablespoons sugar ",
+                "fifth": "1 cup all-purpose flour"
+            }
+        ],
+        "cookingMethod": "Put the flour, sugar, baking powder, baking soda and a pinch of salt in a fine-mesh sieve set over a large bowl. Sift the ingredients into the bowl and set aside.Whisk together the milk, egg and 1/3 cup water in a medium bowl. Slowly pour the egg mixture into the dry ingredients while whisking. Whisk just until the batter is smooth (don’t overmix), then cover the bowl and let rest in the refrigerator for about 1 hour. ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/09/23/0/FNK_Taiyaki_H1_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1632420370206.jpeg"
+    },
+    {
+        "_id": "3457fjivnmfdnhdfsdfjxncbdsfheriodsfcxm",
+        "category_id": "6",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "name": "Tonkatsu with Homemade Sauce",
+        "ingredients": [
+            {
+                "first": "1 tablespoon mirin ",
+                "second": "1 teaspoon baking powder ",
+                "third": "2 tablespoons sugar ",
+                "fourth": "1 teaspoon Dijon mustard ",
+                "fifth": "1/4 teaspoon garlic powder"
+            }
+        ],
+        "cookingMethod": "Lightly pound each piece of pork with a meat mallet, then generously sprinkle on both sides with salt and pepper. Dredge one cutlet in the flour, coating completely, then shake off any excess. Dip it in the egg mixture, letting any excess drip off, then coat with the panko, gently pressing it into the panko so the crumbs stick. Transfer to a plate and repeat with the remaining cutlets.",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/08/3/0/FN_TONKATSU_W_HOMEMADE_SAUCE_H_f_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1628021655117.jpeg"
+    },
+    {
+        "_id": "345fdsyuefujdvnbrwedsfsetrsfcxm",
+        "category_id": "6",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "name": "Grilled Rice Balls",
+        "ingredients": [
+            {
+                "first": "1 cup short-grain sushi rice",
+                "second": "1 teaspoon baking powder ",
+                "third": "1 teaspoon kosher salt",
+                "fourth": "2 tablespoons soy sauce ",
+                "fifth": "2 tablespoons mirin"
+            }
+        ],
+        "cookingMethod": "For this recipe it's important that you use Japanese short-grain white rice, also sometimes called sushi rice. Brown rice and long-grain rice will not work. Cook the rice according to the package directions along with the salt. While the rice is cooking bring the soy sauce and mirin to a boil over low heat until it's reduced by about half. Take it off the heat and whisk in the butter. ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/1/27/0/GT0307_Grilled-Rice-Balls_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1371603147110.jpeg"
+    },
+    {
+        "_id": "3fdddfkfjdfklfjdflgjdfgrdkdjxm",
+        "category_id": "6",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "name": "Negima Yakitori",
+        "ingredients": [
+            {
+                "first": "1/2 cup mirin",
+                "second": "1/4 cup sake",
+                "third": "1/4 cup packed light brown sugar",
+                "fourth": "1 clove garlic, finely grated",
+                "fifth": "2 tablespoons mirin"
+            }
+        ],
+        "cookingMethod": "For this recipe it's important that you use Japanese short-grain white rice, also sometimes called sushi rice. Brown rice and long-grain rice will not work. Cook the rice according to the package directions along with the salt. While the rice is cooking bring the soy sauce and mirin to a boil over low heat until it's reduced by about half. Take it off the heat and whisk in the butter. ",
+        "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/03/18/0/FNK_YAKITORI_NEGIMA_H_f_s4x3.jpg.rend.hgtvcom.966.773.suffix/1616083153149.jpeg"
+    }
+]
