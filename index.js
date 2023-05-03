@@ -30,6 +30,10 @@ app.get('/recipe/:id', (req, res) => {
   res.send(filterRecipeById)
 })
 
+app.get('/recipe', (req, res) => {
+  res.send(recipes)
+})
+
 app.get('/restaurants', (req, res) => {
   res.send(restaurants)
 })
