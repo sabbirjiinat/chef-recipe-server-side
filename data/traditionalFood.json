@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Sashimi",
+        "description": "Sashimi is another must-try food. Similar to sushi but without the rice, sashimi is raw fish sliced into easy-to-eat pieces. The high-quality of the fish caught in all regions of Japan makes it a great choice no matter if you are visiting Tokyo, Kyoto, or anywhere else.",
+        "image": " https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76329.webp"
+    },
+    {
+        "id": "2",
+        "name": "Unagi - Grilled Eel",
+        "description": "Unagi, or eel, is a fish known to be found mainly in rivers. In Japan, it is a delicacy typical in high-class Japanese dining. There are also many casual restaurants that specialize in unagi dishes. At unagi restaurants, you will be able to enjoy kabayaki,",
+        "image": "https://resources.matcha-jp.com/archive_files/jp/2015/07/unagi1.webp"
+    },
+    {
+        "id": "3",
+        "name": "Tempura",
+        "description": "Tempura is a dish involving ingredients like seafood, meat, and vegetables covered in batter and deep-fried in oil. The batter usually contains flour and egg. Tempura is generally dipped in a special sauce called tentsuyu before eating",
+        "image": "https://resources.matcha-jp.com/resize/720x2000/2022/01/16-120660.webp"
+    },
+    {
+        "id": "4",
+        "name": "Onigiri - Rice Balls",
+        "description": "You may have heard of onigiri, or rice balls, before. Onigiri, also called omusubi, may just look like plain rice, but they often have a savory filling inside and are wrapped with a salty sheet of nori seaweed. They are made in bento lunches by families and often seen sold in convenience stores and supermarkets. This is a classic choice for a snack or light meal.",
+        "image": "https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76330.webp"
+    },
+    {
+        "id": "5",
+        "name": "Sukiyaki",
+        "description": "Sukiyaki is cooked in a shallow iron pan, traditionally enjoyed in the fall and winter in Japan. It became popular in Japan around the 19th century. Made both in homes and available on menus at restaurants, it is a dish you will want to try when you're craving something hearty.",
+        "image": "https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76332.webp"
+    },
+    {
+        "id": "6",
+        "name": "Oden - Simmered Ingredients",
+        "description": "Oden is dish of various ingredients simmered in broth. The ingredients are meant to bring out the flavor of the dashi (consisting usually of a mixture of seafood and kelp) and have a savory, salty taste. Oden has been eaten for a long time in Japan and is thought to have been first made during the Muromachi period (1336 – 1573).",
+        "image": "https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76333.webp"
+    }
+]

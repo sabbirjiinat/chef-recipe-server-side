@@ -5,6 +5,8 @@ app.use(cors())
 const port = 5330;
 const chefCategory = require('./data/category.json')
 const recipes = require('./data/recipes.json')
+const restaurants = require('./data/restaurants.json')
+const traditionalFood = require('./data/traditionalFood.json')
 
 
 app.get('/', (req, res) => {
@@ -13,7 +15,7 @@ app.get('/', (req, res) => {
 
 
 app.get('/chef', (req, res) => {
-    res.send(chefCategory)
+  res.send(chefCategory)
 })
 
 app.get('/chef/:id', (req, res) => {
@@ -28,6 +30,13 @@ app.get('/recipe/:id', (req, res) => {
   res.send(filterRecipeById)
 })
 
+app.get('/restaurants', (req, res) => {
+  res.send(restaurants)
+})
+
+app.get('/traditionalFood', (req, res) => {
+  res.send(traditionalFood)
+})
 
 app.listen(port, () => {
   console.log(`react firebase chef server site is running at ${port}`)
